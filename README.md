@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Toan</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-
+<div align="center">
+  <img width=500 height=400 src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952gbepk2akhfpusrsru4f6c15gvos9xp1m51y7lq78&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toanlemanh&label=Profile%20views&color=0e75b6&style=flat" alt="toanlemanh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toanlemanh" alt="toanlemanh" /></a> </p>
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **toanlemanh2003@gmail.com**
 
-- ⚡ Fun fact **I love the night life and staying alone**
+- ⚡ Fun fact **I love the night's life and staying alone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
